@@ -1,0 +1,17 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python specific files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.conda/
+env/
+*.egg-info/
+.Python
+
+# VSCode specific files
+.vscode/
